@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607863562 source:c:\users\humey\onedrive\masaüstü\uygulama\dilbulma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+

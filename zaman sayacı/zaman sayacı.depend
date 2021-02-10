@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606482339 source:c:\users\humey\onedrive\masaüstü\uygulama\zaman sayacý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
