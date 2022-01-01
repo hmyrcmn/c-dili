@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637138648 source:c:\users\hÜmeyra\desktop\codebloksuygulamlarý\polindormwith_recursive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
